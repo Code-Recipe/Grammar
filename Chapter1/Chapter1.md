@@ -1,9 +1,11 @@
-<notice>教程读者请不要直接阅读本文件，因为诸多功能在此无法正常使用，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/10)学习完整教程。如果您喜欢我们的教程，请在右上角给我们一个“Star”，谢谢您的支持！</notice>
-前言
-======
+Checkpoint 1 SAT语法考试介绍
+====
+SAT语法考试一共有4篇文章44道题，总时长35分钟，在改革之后的试卷中，Standard English conventions基础句子语法部分占大约20道题，Expression of Ideas篇章结构部分大约占24道题。请大家看视频，了解一下新SAT语法考试概况。
 
-在学习之前
------
-这套SAT Writing & Language Test视频课程涵盖了SAT语法考试的所有知识点（包括基础语法部分和篇章类问题），知识点和例题相结合。强烈建议学习者有国内高一水平的语法基础；可以在上课前简单浏览一下SAT语法试题概况，但不要求有SAT考试经验。新SAT阅读尤其注重学术写作能力的考察，面对AT语法文章，请时刻提醒自己以editor的身份而非reader的身份进行阅读。
+播放器：
+<cr type="player" parameters="XMzg1MjQ0MTk2NA=="><notice>播放器功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice></cr>
 
-另外对于有争议的知识点，我们给大家介绍的是SAT中采用的标准，可能与大家平时写作习惯不同，请大家注意应试技巧。每个知识点讲解后我们都会给出练习题及讲解，在看到题目后，请大家暂停视频，先独立思考得出答案，再继续看答案及讲解。我们开始吧 :P
+密码：qwer
+
+SAT语法考试介绍课件：
+[链接](https://pan.baidu.com/s/1eASK8x4xSzBfxOmsyShZ5w)    密码:1by0
