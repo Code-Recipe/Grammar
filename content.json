@@ -8,9 +8,102 @@
   "chapters": [
     {
       "name": "前言",
-      "content": "Chapter1/Chapter1.md",
+      "content": "Chapter0/Chapter0.md",
       "sections": [
         {"name":"在学习之前"}
+      ]
+    },
+    {
+      "name": "Checkpoint 1",
+      "content": "Chapter1/Chapter1.md",
+      "sections": [
+        {"name":"SAT语法考试介绍"}
+      ]
+    },
+    {
+      "name": "Checkpoint 2",
+      "content": "Chapter2/Chapter2.md",
+      "sections": [
+        {"name":"句子结构讲解：句子的构成；复合句复杂句"},
+        {"name":"句子结构讲解：错误的句子（四种类型），如何分析长难句"},
+        {"name":"句子结构讲解：特殊句子结构（插入、同位、强调、倒装、省略）；各种类型的从句（按词性分类）"},
+        {"name":"句子结构讲解：练习题"}
+      ]
+    },
+    {
+      "name": "Checkpoint 3",
+      "content": "Chapter3/Chapter3.md",
+      "sections": [
+        {"name":"SAT语法中的标点使用-逗号"},
+        {"name":"SAT语法中的标点使用-冒号／破折号；引号；撇号"},
+        {"name":"SAT语法中的标点使用-练习题"}
+      ]
+    },
+    {
+      "name": "Checkpoint 4",
+      "content": "Chapter4/Chapter4.md",
+      "sections": [
+        {"name":"名词相关考点：主谓一致"},
+        {"name":"名词相关考点：练习题"}
+      ]
+    },
+    {
+      "name": "Checkpoint 5",
+      "content": "Chapter5/Chapter5.md",
+      "sections": [
+        {"name":"动词相关考点：语态（主被动）；时态"},
+        {"name":"动词相关考点：情态"},
+        {"name":"动词相关考点：练习题"}
+      ]
+    },
+    {
+      "name": "Checkpoint 6",
+      "content": "Chapter6/Chapter6.md",
+      "sections": [
+        {"name":"代词相关考点：代词分类；代词指代注意事项"},
+        {"name":"代词相关考点：指代清晰；数格称"},
+        {"name":"代词相关考点：练习题"}
+      ]
+    },
+    {
+      "name": "Checkpoint 7",
+      "content": "Chapter7/Chapter7.md",
+      "sections": [
+        {"name":"修饰成分：形容词副词分别的修饰范围；逻辑主语"},
+        {"name":"修饰成分：形容词副词练习题"},
+        {"name":"修饰成分：逻辑主语练习题"},
+        {"name":"修饰成分：就近修饰"},
+        {"name":"修饰成分：就近修饰练习题"},
+        {"name":"修饰成分：定语从句知识点拓展"}
+      ]
+    },
+    {
+      "name": "Checkpoint 8",
+      "content": "Chapter8/Chapter8.md",
+      "sections": [
+        {"name":"SAT特色考点：平行结构&平行练习题"},
+        {"name":"SAT特色考点：比较句型"},
+        {"name":"SAT特色考点：比较 练习题"}
+      ]
+    },
+    {
+      "name": "Checkpoint 9",
+      "content": "Chapter9/Chapter9.md",
+      "sections": [
+        {"name":"篇章类问题：文章发展脉络"},
+        {"name":"篇章类问题：文章结构"},
+        {"name":"篇章类问题：语言使用要求1—用词准确; 语言简洁(重复题)"},
+        {"name":"篇章类问题：语言使用要求2—风格文体语气"},
+        {"name":"篇章类问题：语言使用要求3—上下句衔接"},
+        {"name":"篇章类问题：例题1—201701北美Court Reporting: Humans v. Machines"},
+        {"name":"篇章类问题：例题2—201701北美Fire in Space"}
+      ]
+    },
+    {
+      "name": "Checkpoint 10",
+      "content": "Chapter10/Chapter10.md",
+      "sections": [
+        {"name":"SAT语法备考规划 & 考前注意事项"}
       ]
     }
   ]
