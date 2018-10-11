@@ -1,5 +1,7 @@
-Checkpoint 1 SAT语法考试介绍
+Checkpoint 1
 ====
+SAT语法考试介绍
+-----
 SAT语法考试一共有4篇文章44道题，总时长35分钟，在改革之后的试卷中，Standard English conventions基础句子语法部分占大约20道题，Expression of Ideas篇章结构部分大约占24道题。请大家看视频，了解一下新SAT语法考试概况。
 
 播放器：
